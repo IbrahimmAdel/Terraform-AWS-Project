@@ -50,7 +50,7 @@ terraform apply
 ## modules details 
 
 ### [vpc module](https://github.com/IbrahimmAdel/Terraform-Project/tree/master/modules/vpc)
-this module contains:
+module resources :
 
 - vpc
 ```
@@ -90,7 +90,7 @@ esource "aws_nat_gateway" "nat" {
 ```
 
 ## [subnet module](https://github.com/IbrahimmAdel/Terraform-Project/tree/master/modules/subnet)
-this module contains:
+module resources :
 
 - number of public subnets (based on number of variables)
 ```
@@ -154,7 +154,7 @@ resource "aws_route_table_association" "private-rta" {
 ```
 
 ## [EC2 module](https://github.com/IbrahimmAdel/Terraform-Project/tree/master/modules/ec2)
-this module contains:
+module resources :
 
 - ubuntu AMI
 ```
@@ -285,7 +285,7 @@ EOF
 ```
 
 ## [LoadBalancer module](https://github.com/IbrahimmAdel/Terraform-Project/tree/master/modules/loadbalancer)
-this module contains:
+module resources :
 
 - 2 target groups
 ```
