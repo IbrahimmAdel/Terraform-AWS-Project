@@ -346,16 +346,19 @@ resource "aws_lb_listener" "lb-listner" {
 ## Screenshots
 
 #####  *create a new workplace `dev` to work on it*
-- ![](https://github.com/IbrahimmAdel/Terraform-Project/blob/master/screenshots/workspace.png)
+![](https://github.com/IbrahimmAdel/Terraform-Project/blob/master/screenshots/workspace.png)
 ----
+
 #### *proxy configuration*
-- ![](https://github.com/IbrahimmAdel/Terraform-Project/blob/master/screenshots/proxy%20configuration.png)
+![](https://github.com/IbrahimmAdel/Terraform-Project/blob/master/screenshots/proxy%20configuration.png)
 -----
+
 #### *The apache page of the private EC2 through public Loadbalancer DNS*
-- ![](https://github.com/IbrahimmAdel/Terraform-Project/blob/master/screenshots/load-balancer.png)
+![](https://github.com/IbrahimmAdel/Terraform-Project/blob/master/screenshots/load-balancer.png)
 -----
+
 #### *The s3 bucket that contain the state file*
-- ![](https://github.com/IbrahimmAdel/Terraform-Project/blob/master/screenshots/s3.png)
+![](https://github.com/IbrahimmAdel/Terraform-Project/blob/master/screenshots/s3.png)
 
 
 
