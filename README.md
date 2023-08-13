@@ -353,11 +353,11 @@ resource "aws_lb_listener" "lb-listner" {
 ![](https://github.com/IbrahimmAdel/Terraform-Project/blob/master/screenshots/proxy%20configuration.png)
 -----
 
-#### *The apache page of the private EC2 through public Loadbalancer DNS*
+#### *apache page of the private EC2 through public Loadbalancer DNS*
 ![](https://github.com/IbrahimmAdel/Terraform-Project/blob/master/screenshots/load-balancer.png)
 -----
 
-#### *The s3 bucket that contain the state file*
+#### *s3 bucket that contain the state file*
 ![](https://github.com/IbrahimmAdel/Terraform-Project/blob/master/screenshots/s3.png)
 
 
