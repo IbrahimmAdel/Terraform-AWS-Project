@@ -34,7 +34,7 @@ git clone https://github.com/IbrahimmAdel/Terraform-Project.git
 ```
 2. Navigate to the project directory:
 ```
-cd terraform-project
+cd Terraform-AWS-Project
 ```
 3. Initialize Terraform:
 ```
